@@ -88,7 +88,7 @@ logo__items:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
@@ -183,7 +183,7 @@ footer__background__image: "/images/bg.jpg"
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: dusty.werth@outlook.com # Add your form_id
   description: Akio comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
@@ -193,7 +193,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
