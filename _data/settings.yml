@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Akio
+title: Dusty Werth
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Creative Portfolio Theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -16,14 +16,16 @@ menu__settings:
       url: '/about/'
     - title: 'Work'
       url: '/work/'
-    - title: 'Writing'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: "Contact"
+      url: '/contact/'
+    #- title: 'Writing'
+    #  url: '/blog/'
+    #- title: 'Pages'
+    #  submenu:
+    #  - url: '/contact/'
+    #    title: 'Contact'
+    #  - url: '/elements/'
+    #    title: 'Elements'
 
 
 #-------------------------------
@@ -57,7 +59,7 @@ hero:
 #-------------------------------
 # Logos Settings
 logos:
-  enable: true
+  enable: false
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
@@ -99,13 +101,13 @@ mailchimp:
 work:
   enable: true
   work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__description: A selection of some of my favorite and most challenging projects from my career.
 
 
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: true
+  enable: false
 
 testimonial__title: Clients
 testimonial__description:
