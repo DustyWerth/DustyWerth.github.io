@@ -29,9 +29,9 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Jason Hill
-  author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  author__avatar: '/images/01.jpg'
+  author__name: Dusty Werth
+  author__bio: Hi, I'm Dusty A passionate innovator with experience across mutliple software platforms and market sectors.
+  author__avatar: '/images/DustyWerth.jpeg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -49,9 +49,9 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Hey everyone, I’m Jason Hill
-  hero__description: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  hero__image: "/images/01-1.jpg"
+  hero__title: Hey everyone, I’m Dusty Werth
+  hero__description: Hi, I'm Dusty A passionate innovator with experience across mutliple software platforms and market sectors.
+  hero__image: "/images/DustyWerth.jpeg"
 
 
 #-------------------------------
