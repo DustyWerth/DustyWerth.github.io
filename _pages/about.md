@@ -31,7 +31,7 @@ Gardening offers me a peaceful escape, a connection to the earth that's both cre
 <div class="gallery-box">
   <div class="HomeLifeGallery">
     <img src="/images/DustyRussel.jpeg" loading="lazy">
-    <img src="/images/Mile.jpg" loading="lazy">
+    <img src="/images/Milo.jpg" loading="lazy">
     <img src="/images/Gussie.jpeg" loading="lazy">
     <img src="/images/Trooper.jpeg" loading="lazy">
     <img src="/images/Ribs.jpeg" loading="lazy">
@@ -48,7 +48,7 @@ Nature calls to me, offering both solace and adventure. Hiking, camping, and sim
   <div class="OutdoorLifeGallery">
     <img src="/images/Moose.jpeg" loading="lazy">
     <img src="/images/RedRocks.jpg" loading="lazy">
-    <img src="/images/RMNP.jpeg" loading="lazy">
+    <img src="/images/RMNP_Hike.jpeg" loading="lazy">
     <img src="/images/Bear.jpeg" loading="lazy">
     <img src="/images/Aruba_Sunset.jpeg" loading="lazy">
   </div>
