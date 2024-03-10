@@ -13,7 +13,6 @@ Beyond my professional life, I'm deeply passionate about exploring the world and
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Glacier.jpeg" loading="lazy">
     <img src="/images/La_Sagrada.jpg" loading="lazy">
     <img src="/images/USSArizona.jpeg" loading="lazy">
     <img src="/images/Sevile.jpg" loading="lazy">
@@ -51,6 +50,7 @@ Nature calls to me, offering both solace and adventure. Hiking, camping, and sim
     <img src="/images/RMNP_Hike.jpeg" loading="lazy">
     <img src="/images/Bear.jpeg" loading="lazy">
     <img src="/images/Aruba_Sunset.jpeg" loading="lazy">
+    <img src="/images/Glacier.jpeg" loading="lazy">
   </div>
   <em>Outdoor Life Gallery</em>
 </div>
