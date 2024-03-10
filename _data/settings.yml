@@ -100,7 +100,7 @@ mailchimp:
 #-------------------------------
 # Work Settings
 work:
-  enable: false
+  enable: true
   work__title: Work
   work__description: A selection of some of my favorite and most challenging projects from my career.
 
