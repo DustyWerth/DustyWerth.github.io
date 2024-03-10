@@ -36,10 +36,10 @@ author:
   author__avatar: '/images/DustyWerth.jpeg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 - {icon: "ion-logo-github", link: "https://github.com"}
 - {icon: "ion-logo-vimeo", link: "https://vimeo.com"}
 
@@ -52,7 +52,7 @@ social:
 hero:
   enable: true
   hero__title: Hello World! I’m Dusty Werth
-  hero__description: Hello World, I'm Dusty — an innovator with over 17 years in GIS and environmental consulting. I specialize in process mapping, tool development, leading project teams, and overall problem solving. My expertise in data analysis and  data visualization paired with my experience with cloud platforms and programing has allowed me to innovate and enhance efficiency.
+  hero__description: I'm Dusty — an innovator with over 17 years in GIS and environmental consulting. I specialize in process mapping, tool development, leading and contributing to project teams, and overall problem solving. My expertise in data analysis and  data visualization paired with my experience with cloud platforms and programing has allowed me to innovate and enhance efficiency.
   hero__image: "/images/FME_Workspace.png"
 
 
