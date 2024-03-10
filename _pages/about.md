@@ -35,7 +35,7 @@ Gardening offers me a peaceful escape, a connection to the earth that's both cre
     <img src="/images/Gussie.jpeg" loading="lazy">
     <img src="/images/Trooper.jpeg" loading="lazy">
     <img src="/images/Ribs.jpeg" loading="lazy">
-    <img src="/images/Chicken.jpeg" loading="lazy">
+    <img src="/images/Chicken.jpg" loading="lazy">
   </div>
   <em>Home Life Gallery</em>
 </div>
