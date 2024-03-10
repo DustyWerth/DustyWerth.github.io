@@ -14,10 +14,10 @@ Beyond my professional life, I'm deeply passionate about exploring the world and
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Glacier.jpeg" loading="lazy">
-    <img src="/images/India_Elephant_Island.jpeg" loading="lazy">
+    <img src="/images/La_Sagrada.jpg" loading="lazy">
     <img src="/images/USSArizona.jpeg" loading="lazy">
     <img src="/images/Sevile.jpg" loading="lazy">
-    <img src="/images/La_Sagrada.jpg" loading="lazy">
+    <img src="/images/India_Elephant_Island.jpeg" loading="lazy">
     <img src="/images/Portugal.jpg" loading="lazy">
     <img src="/images/LadyLuck.jpeg" loading="lazy">
   </div>
@@ -45,7 +45,7 @@ I come from a large family where gatherings with my brothers, their dogs, and my
 Nature calls to me, offering both solace and adventure. Hiking, camping, and simply being in the great outdoors are essential to my well-being, reminding me of the planet's beauty and our responsibility to protect it.
 
 <div class="gallery-box">
-  <div class="HomeLifeGallery">
+  <div class="OutdoorLifeGallery">
     <img src="/images/Moose.jpeg" loading="lazy">
     <img src="/images/RedRocks.jpg" loading="lazy">
     <img src="/images/RMNP.jpeg" loading="lazy">
@@ -59,11 +59,4 @@ At heart, I'm someone who seeks to embrace life fully, from intellectual challen
 
 Welcome to my page, and thank you for joining me on this journey.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/101.jpg" loading="lazy">
-    <img src="/images/102.jpg" loading="lazy">
-  </div>
-  <em>Travel Gallery </em>
-</div>
+
