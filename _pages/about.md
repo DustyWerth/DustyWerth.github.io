@@ -13,13 +13,13 @@ Beyond my professional life, I'm deeply passionate about exploring the world and
 
 <div class="gallery-box">
   <div class="gallery">
+    <img src="/images/LadyLuck.jpeg" loading="lazy">
     <img src="/images/La_Sagrada.jpg" loading="lazy">
     <img src="/images/USSArizona.jpeg" loading="lazy">
     <img src="/images/Sevile.jpg" loading="lazy">
     <img src="/images/India_Elephant_Island.jpeg" loading="lazy">
     <img src="/images/Portugal.jpg" loading="lazy">
-    <img src="/images/LadyLuck.jpeg" loading="lazy">
-  </div>
+   </div>
   <em>Travel Gallery</em>
 </div>
 
