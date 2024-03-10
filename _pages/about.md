@@ -3,8 +3,8 @@ layout: page
 title: About
 description: I'm an innovative and curious person who has a lot of varied experience throughout the environmental consulting market.
 permalink: /about/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Bruce Dixon](https://unsplash.com/photos/3M9WJQVHzog) on [Unsplash](https://unsplash.com/)'
+image: '/images/DustyWerth.jpeg'
+image_caption: ''
 ---
 
 Hello! I'm Dusty, with a rich career spanning over 17 years in GIS and environmental consulting. My professional days are filled with process mapping, developing innovative tools, and leading dedicated teams through complex projects. My journey is underpinned by deep technical knowledge across data analysis, data visualization, cloud platforms, and application development. This blend of skills has allowed me to drive significant improvements in quality, efficiency, innovation, and training.
@@ -16,8 +16,11 @@ Beyond my professional life, I'm deeply passionate about exploring the world and
     <img src="/images/Glacier.jpeg" loading="lazy">
     <img src="/images/India_Elephant_Island.jpg" loading="lazy">
     <img src="/images/Aruba_Sunset.jpeg" loading="lazy">
+    <img src="/images/Bear.jpeg" loading="lazy">
+    <img src="/images/La_Sagrads.jpg" loading="lazy">
+    <img src="/images/Portugal.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Travel Gallery</em>
 </div>
 
 When not exploring, I'm often found behind the grill or the smoker, indulging in my love for cooking. As a seasoned competitor on the BBQ competition circuit, I've earned numerous awards for my culinary skills. Cooking, especially BBQ, allows me to blend art and science, creating delicious experiences for friends and family.
@@ -38,7 +41,7 @@ Welcome to my page, and thank you for joining me on this journey.
     <img src="/images/101.jpg" loading="lazy">
     <img src="/images/102.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>Travel Gallery </em>
 </div>
 
 Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books, titles of some books may also be fictitious.
