@@ -14,11 +14,12 @@ Beyond my professional life, I'm deeply passionate about exploring the world and
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Glacier.jpeg" loading="lazy">
-    <img src="/images/India_Elephant_Island.jpg" loading="lazy">
-    <img src="/images/Aruba_Sunset.jpeg" loading="lazy">
-    <img src="/images/Bear.jpeg" loading="lazy">
-    <img src="/images/La_Sagrads.jpg" loading="lazy">
+    <img src="/images/India_Elephant_Island.jpeg" loading="lazy">
+    <img src="/images/USSArizona.jpeg" loading="lazy">
+    <img src="/images/Sevile.jpg" loading="lazy">
+    <img src="/images/La_Sagrada.jpg" loading="lazy">
     <img src="/images/Portugal.jpg" loading="lazy">
+    <img src="/images/LadyLuck.jpeg" loading="lazy">
   </div>
   <em>Travel Gallery</em>
 </div>
@@ -27,9 +28,32 @@ When not exploring, I'm often found behind the grill or the smoker, indulging in
 
 Gardening offers me a peaceful escape, a connection to the earth that's both creative and nurturing. My garden is a source of joy and fulfillment, a testament to the beauty that comes from care and patience. At home, life is further enriched by my husband of 9 years and our three dogs, providing a foundation of love, laughter, and the occasional bark.
 
+<div class="gallery-box">
+  <div class="HomeLifeGallery">
+    <img src="/images/DustyRussel.jpeg" loading="lazy">
+    <img src="/images/Mile.jpg" loading="lazy">
+    <img src="/images/Gussie.jpeg" loading="lazy">
+    <img src="/images/Trooper.jpeg" loading="lazy">
+    <img src="/images/Ribs.jpeg" loading="lazy">
+    <img src="/images/Chicken.jpeg" loading="lazy">
+  </div>
+  <em>Home Life Gallery</em>
+</div>
+
 I come from a large family where gatherings with my brothers, their dogs, and my nieces and nephews are cherished. These moments remind me of the invaluable support and grounding that only family can provide.
 
 Nature calls to me, offering both solace and adventure. Hiking, camping, and simply being in the great outdoors are essential to my well-being, reminding me of the planet's beauty and our responsibility to protect it.
+
+<div class="gallery-box">
+  <div class="HomeLifeGallery">
+    <img src="/images/Moose.jpeg" loading="lazy">
+    <img src="/images/RedRocks.jpg" loading="lazy">
+    <img src="/images/RMNP.jpeg" loading="lazy">
+    <img src="/images/Bear.jpeg" loading="lazy">
+    <img src="/images/Aruba_Sunset.jpeg" loading="lazy">
+  </div>
+  <em>Outdoor Life Gallery</em>
+</div>
 
 At heart, I'm someone who seeks to embrace life fully, from intellectual challenges to the simple joys of a meal shared under the stars. My life is a tapestry of professional achievements and personal passions. I believe in continuous learning, giving back, and cherishing every moment.
 
@@ -43,20 +67,3 @@ Welcome to my page, and thank you for joining me on this journey.
   </div>
   <em>Travel Gallery </em>
 </div>
-
-Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books, titles of some books may also be fictitious.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/103.jpg" loading="lazy">
-  </div>
-  <em>Photo by <a href="https://unsplash.com/photos/TMpQ5R9mbOc" target="_blank">Caroline Hernandez</a></em>
-</div>
-
-This form of the book chain has hardly changed since the eighteenth century, and has not always been this way. Thus, the author has asserted gradually with time, and the copyright dates only from the nineteenth century. For many centuries, especially before the invention of printing, each freely copied out books that passed through his hands, adding if necessary his own comments. Similarly, bookseller and publisher jobs have emerged with the invention of printing, which made the book an industrial product, requiring structures of production and marketing.
-
-Paper was first made in China as early as 200 BC, and reached Europe through Muslim territories. At first made of rags, the industrial revolution changed paper-making practices, allowing for paper to be made out of wood pulp. Papermaking in Europe began in the 11th century, although vellum was also common there as page material up until the beginning of the 16th century, vellum being the more expensive and durable option.
