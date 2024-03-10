@@ -55,7 +55,7 @@ Nature calls to me, offering both solace and adventure. Hiking, camping, and sim
   <em>Outdoor Life Gallery</em>
 </div>
 
-At heart, I'm someone who seeks to embrace life fully, from intellectual challenges to the simple joys of a meal shared under the stars. My life is a tapestry of professional achievements and personal passions. I believe in continuous learning, giving back, and cherishing every moment.
+At heart, I'm someone who seeks to embrace life fully, from intellectual challenges to the simple joys of a meal shared with friends and family. My life is a unique mixture of professional achievements and personal passions. I believe in continuous learning, giving back, and cherishing every moment.
 
 Welcome to my page, and thank you for joining me on this journey.
 
