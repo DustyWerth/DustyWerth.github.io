@@ -1,11 +1,11 @@
 ---
-title: RAPID
-description: Utilizing a variety of publicly available data and FME Form I create a Avian Collision risk map
+title: Envolve
+description: Envolve is a custom designed stakeholder data management system.
 category: Software Design
 date: 2024-03-05 08:01:35 +0300
 role: Project manager
-image: '/images/RAPID.jpeg'
-image_caption: 'RAPID Homepage'
+image: '/images/Envolve.png'
+image_caption: 'Envolve Homepage'
 ---
 
 Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).
