@@ -29,7 +29,7 @@ When not exploring, I'm often found behind the grill or the smoker, indulging in
 Gardening offers me a peaceful escape, a connection to the earth that's both creative and nurturing. My garden is a source of joy and fulfillment, a testament to the beauty that comes from care and patience. At home, life is further enriched by my husband of 9 years and our three dogs, providing a foundation of love, laughter, and the occasional bark.
 
 <div class="gallery-box">
-  <div class="Gallery">
+  <div class="gallery">
     <img src="/images/DustyRussel.jpeg" loading="lazy">
     <img src="/images/Milo.jpg" loading="lazy">
     <img src="/images/Gussie.jpeg" loading="lazy">
@@ -45,7 +45,7 @@ I come from a large family where gatherings with my brothers, their dogs, and my
 Nature calls to me, offering both solace and adventure. Hiking, camping, and simply being in the great outdoors are essential to my well-being, reminding me of the planet's beauty and our responsibility to protect it.
 
 <div class="gallery-box">
-  <div class="Gallery">
+  <div class="gallery">
     <img src="/images/Moose.jpeg" loading="lazy">
     <img src="/images/RedRocks.jpg" loading="lazy">
     <img src="/images/RMNP_Hike.jpeg" loading="lazy">
