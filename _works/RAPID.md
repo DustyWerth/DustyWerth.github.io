@@ -10,10 +10,9 @@ image_caption: ''
 skills: 'Agile, Infrastructure as Code, SQL, DevOps'
 software: 'Leaflet, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow'
 ---
+<strong>Summary:</strong>
 
-Summary:
-
-<font size="2"> <strong>-Development and Launch of RAPID Tool:</strong> Played a crucial role in steering the RAPID project from its inception to launch, integrating Leaflet with ArcGIS Online to create a user-friendly and dynamic mapping experience.</font>
+<font size="2"><strong>-Development and Launch of RAPID Tool:</strong> Played a crucial role in steering the RAPID project from its inception to launch, integrating Leaflet with ArcGIS Online to create a user-friendly and dynamic mapping experience.</font>
 
 <font size="2"><strong>-Enhanced Accessibility and Effectiveness:</strong> The integration significantly improved the tool's accessibility and effectiveness, enabling real-time interaction with geographic data and supporting the visualization needs of users.</font>
 
@@ -23,7 +22,8 @@ Summary:
 
 <font size="2"><strong>-Collaborative Leadership and Technical Innovation:</strong> Led a multidisciplinary team and managed the development of a robust SQL database and FME flow workspaces, which were critical for the tool's data management and automated data transformation, setting a new standard in environmental consulting and GIS applications.</font>
 
-Detailed Project Description:
+
+<strong>Detailed Project Description:</strong>
 
 In the development of the RAPID tool, a project that marked a significant milestone in our approach to environmental consulting and GIS applications, I played a crucial role in steering the project from its conceptualization to its successful launch. At the heart of RAPID’s innovation was the seamless integration of Leaflet with ArcGIS Online (AGOL), enabling an intuitive and dynamic mapping experience that was both user-friendly and powerful in its capabilities. This integration was pivotal in enhancing the tool’s accessibility and effectiveness, allowing users to visualize and interact with geographic data in real-time.
 
