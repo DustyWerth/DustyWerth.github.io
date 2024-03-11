@@ -2,7 +2,7 @@
 title: Envolve
 description: Envolve is a custom designed stakeholder data management system.
 category: Software Design
-date: 2021-03-05 08:01:35 +0300
+date: 
 role: Project Manager
 image: '/images/Envolve.png'
 image_caption: 'Envolve Homepage'
