@@ -11,10 +11,14 @@ skills: 'Agile, Infrastructure as Code, SQL, DevOps'
 software: 'Leaflet, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow'
 ---
 <font size="6"><strong>Summary:</strong></font><br>
-<font size="2"><strong>-Development and Launch of RAPID Tool:</strong> Played a crucial role in steering the RAPID project from its inception to launch, integrating Leaflet with ArcGIS Online to create a user-friendly and dynamic mapping experience.</font><br>
-<font size="2"><strong>-Enhanced Accessibility and Effectiveness:</strong> The integration significantly improved the tool's accessibility and effectiveness, enabling real-time interaction with geographic data and supporting the visualization needs of users.</font><br>
-<font size="2"><strong>-Business Development and Operational Utility:</strong> RAPID serves dual purposes by assisting in early project information capture and facilitating the siting of energy facilities through a constraint mapping and generative tool approach, aiming to revolutionize project planning in the energy sector.</font><br>
-<font size="2"><strong>-Technical Infrastructure and Development Strategy:</strong> Utilized Infrastructure as Code with Bicep for automated deployment, outlined a clear architectural blueprint, and led the development process through agile methodology, ensuring alignment with user requirements and project objectives.</font><br>
+<font size="2"><strong>-Development and Launch of RAPID Tool:</strong> Played a crucial role in steering the RAPID project from its inception to launch, integrating Leaflet with ArcGIS Online to create a user-friendly and dynamic mapping experience.</font>
+
+<font size="2"><strong>-Enhanced Accessibility and Effectiveness:</strong> The integration significantly improved the tool's accessibility and effectiveness, enabling real-time interaction with geographic data and supporting the visualization needs of users.</font>
+
+<font size="2"><strong>-Business Development and Operational Utility:</strong> RAPID serves dual purposes by assisting in early project information capture and facilitating the siting of energy facilities through a constraint mapping and generative tool approach, aiming to revolutionize project planning in the energy sector.</font>
+
+<font size="2"><strong>-Technical Infrastructure and Development Strategy:</strong> Utilized Infrastructure as Code with Bicep for automated deployment, outlined a clear architectural blueprint, and led the development process through agile methodology, ensuring alignment with user requirements and project objectives.</font>
+
 <font size="2"><strong>-Collaborative Leadership and Technical Innovation:</strong> Led a multidisciplinary team and managed the development of a robust SQL database and FME flow workspaces, which were critical for the tool's data management and automated data transformation, setting a new standard in environmental consulting and GIS applications.</font>
 <br>
 <font size="6"><strong>Detailed Project Description:</strong></font><br>
