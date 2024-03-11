@@ -1,6 +1,6 @@
 ---
 title: Geospatial Governance Program
-description: Revolutionizing Geospatial Management: Streamlining Processes, Enhancing Quality, and Saving Thousands of Hours Annually.
+description: 'Revolutionizing Geospatial Management: Streamlining Processes, Enhancing Quality, and Saving Thousands of Hours Annually.'
 category: ArcGIS
 date: 2023-02-15 08:01:35 +0300
 client: 
