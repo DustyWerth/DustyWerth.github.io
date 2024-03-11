@@ -6,6 +6,8 @@ date: 2021-03-05 08:01:35 +0300
 role: Project Manager
 image: '/images/Envolve.png'
 image_caption: 'Envolve Homepage'
+skills: 'Agile, Infrastructure as Code, SQL, DevOps, Power BI, Data Modeling'
+software: 'Power BI, Microsoft Sql Management Studio, VS Code, FME Form, FME Flow'
 ---
 
 
