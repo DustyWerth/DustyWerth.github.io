@@ -2,7 +2,7 @@
 title: Transmission Line Siting Analysis Tools
 description: Revolutionizing Transmission Line Routing and Siting with Advanced Data Analysis and GIS Modeling to Save Time and Enhance Project Outcomes.
 category: Software Development
-date: 2010-01
+date: 2010-01-01 08:01:35 +0300
 client: 
 role: Tool Developer
 image: '/images/ModelBuilder.png'
