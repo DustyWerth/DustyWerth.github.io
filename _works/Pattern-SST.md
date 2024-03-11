@@ -5,7 +5,7 @@ category: Routing and Siting
 date: 2016-01-01 08:01:35 +0300
 client: Pattern Energy
 role: Assitant Project Manager
-image: '/images/PatternSST.JPG'
+image: '/images/PatternSST.jpg'
 image_caption: ''
 ---
 
