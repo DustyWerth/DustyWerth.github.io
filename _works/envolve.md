@@ -7,7 +7,7 @@ role: Project Manager
 image: '/images/Envolve.png'
 image_caption: 'Envolve Homepage'
 skills: 'Agile, Infrastructure as Code, SQL, DevOps, Power BI, Data Modeling'
-software: 'Power BI, Microsoft Sql Management Studio, VS Code, FME Form, FME Flow'
+software: '     Power BI, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow'
 ---
 
 
