@@ -9,7 +9,11 @@ image: '/images/Aeronautical.png'
 image_caption: 'Part 77 Surfaces'
 ---
 
-Project teams in the energy sector (as well as other sectors) are always in need of knowing how tall structures can be without being a FAA Obstruction. Utilizing data from the FAA, airspace protection surfaces are modeled and made available to project teams. This data is updated every 28 days (4 weeks) by the FAA.  The tool was developed to download the newest data and generate the Part 77 surfaces for every airport in the FAA database. FME Flow was utilized to automatme this so that the project teams always had access to the most up-to-date information possible.
+In the dynamic landscape of the energy sector and beyond, project teams are perpetually faced with the challenge of determining allowable structure heights to avoid FAA Obstruction classifications. Leveraging the latest FAA data, I developed an innovative tool that models airspace protection surfaces, ensuring project teams have continuous access to critical updates every 28 days. This tool, crafted using FME Flow, automates the generation of Part 77 surfaces for every airport listed in the FAA's comprehensive database, guaranteeing the most current data is always at our team's fingertips.
+
+To further enhance project planning and safety, additional functionalities were integrated to model TERPS (Terminal Instrument Procedures) alongside Part 77 surfaces. By constructing these surfaces in a 3D environment, we are able to precisely calculate the maximum allowable height for structures. This pivotal information aids in either circumventing the necessity to file with the FAA or ensuring compliance with obstruction standards, thereby minimizing the risk of mandatory structure marking and lighting.
+
+The tool's precision and utility can be exponentially increased through the incorporation of high-accuracy ground surveys, such as LiDAR scans. This advanced approach not only refines the accuracy of our models but also solidifies our commitment to leveraging cutting-edge technology to meet the evolving needs of our projects and clients. Through these innovations, we are setting new standards in project safety and efficiency, ensuring our teams are equipped with the necessary tools to navigate the complexities of airspace regulations seamlessly.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -20,6 +24,4 @@ Project teams in the energy sector (as well as other sectors) are always in need
   <em></em>
 </div>
 
-Additional tools were developed to model the TERPS (instrument approaches) for airports in addition to the Part 77 surfaces.  By creating all of these surfaces in 3D we can calculate an accurate max structure height to either eliminate the need to file with the FAA or to stay under the obstruction standards.  By staying under the obstruction standards the project minimizes the risk of needing to implement marking and lighting of strucgtures.
-
-This tool can be further refined by the introduction of high accuracy ground survey in the form of LiDAR scans.  
+The tool's precision and utility can be exponentially increased through the incorporation of high-accuracy ground surveys, such as LiDAR scans. This advanced approach not only refines the accuracy of our models but also solidifies our commitment to leveraging cutting-edge technology to meet the evolving needs of our projects and clients. Through these innovations, we are setting new standards in project safety and efficiency, ensuring our teams are equipped with the necessary tools to navigate the complexities of airspace regulations seamlessly.
