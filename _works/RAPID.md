@@ -9,7 +9,17 @@ image: '/images/RAPID.jpeg'
 image_caption: ''
 ---
 
-This tool was developed as both an internal tool and an external tool. The external version of the tool is available <a href =https://ens-rapid-prod.azurewebsites.net/Login>Here </a> and is meant as buisness development tool to help capture early project information. This tool allows the end user to rank approximatley 30 different constraints that are important to the siting of various energy facilities and the tool will generate a conceptual constraint map as well as possible corridors for linear infrastructure.
+In the development of the RAPID tool, a project that marked a significant milestone in our approach to environmental consulting and GIS applications, I played a crucial role in steering the project from its conceptualization to its successful launch. At the heart of RAPID’s innovation was the seamless integration of Leaflet with ArcGIS Online (AGOL), enabling an intuitive and dynamic mapping experience that was both user-friendly and powerful in its capabilities. This integration was pivotal in enhancing the tool’s accessibility and effectiveness, allowing users to visualize and interact with geographic data in real-time.
+
+The project ambitiously aimed to serve both internal operational needs and external business development goals. The external version of the tool is available <a href =https://ens-rapid-prod.azurewebsites.net/Login>Here </a> and is designed as a business development tool to assist in capturing early project information. This facet of RAPID allows end users to rank approximately 30 different constraints critical to the siting of various energy facilities. The tool then generates a conceptual constraint map along with potential corridors for linear infrastructure, embodying the first step towards a full AI Generative routing study. I firmly believe these generative tools will revolutionize the competitive energy sectors, such as renewables development and FERC 1000 projects, as well as traditional energy sectors, marking a new era of efficiency and precision in project planning and execution.
+
+The foundation of the project was laid with Infrastructure as Code (IaC) using Bicep, a strategic choice that facilitated the automated deployment of Azure environments in a reliable and scalable manner. This approach not only optimized our development process but also ensured consistency across our deployment stages, embodying our commitment to leveraging the latest in cloud technology. The creation of the design document was another critical phase, where we outlined the architectural blueprint and operational logic of the RAPID tool, ensuring all stakeholders were aligned with the project's objectives and technical specifications.
+
+My responsibilities extended to the development and evaluation of the Request for Proposal (RFP), a process that demanded a keen understanding of our project needs and the capabilities of potential vendors. Documenting the key aspects of the Minimum Viable Product (MVP) and translating these into actionable user stories was instrumental in guiding the development process, ensuring that the RAPID tool was both functional and aligned with user requirements from the outset.
+
+Leading a team of developers through the agile methodology, I fostered an environment of continuous improvement and collaboration, enabling us to adapt swiftly to challenges and feedback throughout the development cycle. My role also involved spearheading a multidisciplinary team of internal resources, including legal, IT, marketing, insurance, and InfoSec, ensuring that every facet of the project was executed with excellence and compliance.
+
+The technical development of the RAPID tool included the design of a robust SQL database schema, a foundation upon which the tool’s data management and retrieval capabilities were built. In parallel, the development of FME flow workspaces was critical in automating data transformation and integration processes, further enhancing the tool’s efficiency and the value it delivered to users. Through these concerted efforts, the RAPID tool emerged as a testament to innovative thinking, technical expertise, and collaborative spirit, setting a new benchmark in environmental consulting and GIS applications.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -19,7 +29,7 @@ This tool was developed as both an internal tool and an external tool. The exter
   <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
 </div>
 
-This tool represents the first step towards a full AI Generative routing study.  I believe these generative tools will be a game changer not only in the competitive energy sectors (Renewables development, FERC 1000, etc.) but also in the traditional energy sectors.
-
 <p><iframe src="https://player.vimeo.com/video/843721624?h=51e6f44c28" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p>
+
+
 

@@ -9,7 +9,7 @@ image: '/images/Aeronautical.png'
 image_caption: 'Part 77 Surfaces'
 ---
 
-Project teams in the energy sector (as well as other sectors) are alwasy in need of knowing how tall structures can be without being a FAA Obstruction. Utilizing data from the FAA, airspace protection surfaces are modeled and made available to project teams. This data is updated every 28 days (4 weeks) by the FAA.  The tool was developed to download the newest data and generate the Part 77 surfaces for every airport in the FAA database. FME Flow was utilized to automatme this so that the project teams always had access to the most up-to-date information possible.
+Project teams in the energy sector (as well as other sectors) are always in need of knowing how tall structures can be without being a FAA Obstruction. Utilizing data from the FAA, airspace protection surfaces are modeled and made available to project teams. This data is updated every 28 days (4 weeks) by the FAA.  The tool was developed to download the newest data and generate the Part 77 surfaces for every airport in the FAA database. FME Flow was utilized to automatme this so that the project teams always had access to the most up-to-date information possible.
 
 <div class="gallery-box">
   <div class="gallery">
