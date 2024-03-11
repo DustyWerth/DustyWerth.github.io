@@ -3,28 +3,31 @@ title: Envolve
 description: Envolve is a custom designed stakeholder data management system.
 category: Software Design
 date: 2024-03-05 08:01:35 +0300
-role: Project manager
+role: Project Manager
 image: '/images/Envolve.png'
 image_caption: 'Envolve Homepage'
 ---
 
-Hardcover books have a stiff binding. Paperback books have cheaper, flexible covers which tend to be less durable. An alternative to paperback is the glossy cover, otherwise known as a dust cover, found on magazines, and comic books. Spiral-bound books are bound by spirals made of metal or plastic. Examples of spiral-bound books include teachers' manuals and puzzle books (crosswords, sudoku).
+
+The evolution of the Envolve application into a leading stakeholder database management system marks a pivotal advancement in how we manage and track our engagement with stakeholders. Taking over as the technical owner after its initial development phase, I was tasked with the critical role of steering Envolve through its next stages of enhancement and integration, ensuring its alignment with our organization's evolving needs.
+
+Envolve was conceived to streamline the stakeholder engagement process, providing a comprehensive platform capable of managing extensive data sets, facilitating seamless communication, and enabling detailed tracking of stakeholder interactions. As the system’s technical owner, my focus was on enhancing its functionality, scalability, and user experience to support both internal and external project demands more effectively.
+
+A significant part of my role involved optimizing the application’s infrastructure for increased adaptability and performance. This included the development of data models for reporting via Power BI, a task that proved challenging due to the original database schema developed by the initial vendor. Overcoming these obstacles required a deep dive into the existing database structure and a comprehensive overhaul to ensure the data models were not only accurate but also optimized for performance within Power BI. This endeavor was crucial for providing meaningful insights and analytics to our stakeholders, enhancing the decision-making process across our projects.
+
+Additionally, the backend infrastructure of Envolve underwent a significant overhaul to increase security and scalability. This revamp was pivotal in bringing all three environments—development, testing, and production—into parity, ensuring consistency and reliability across our deployment processes. The alignment of these environments facilitated a smoother development workflow and enabled our team to implement new features and updates with greater efficiency and less risk to the system's integrity.
+
+Employing an agile methodology, I led the development team in a flexible and responsive manner, adapting to new requirements and feedback to refine and expand the application’s features. This approach was essential in fostering a dynamic development environment where continuous improvement was not just a goal but a standard practice, ensuring that Envolve would exceed its initial objectives and offer robust support to our stakeholder management processes.
+
+In taking on the role of technical owner post-initial development, my focus was not only on technological enhancements but also on ensuring that Envolve remained a user-centric tool. The aim was to provide our team with a powerful resource that simplifies the complexities of stakeholder management, thereby enabling better decision-making and fostering more meaningful engagements with our stakeholders.
+
+In summary, the stewardship of the Envolve application under my technical leadership underscores a commitment to leveraging advanced technology for effective stakeholder engagement. Through strategic enhancements and continuous improvement, Envolve has become an indispensable tool in our project management toolkit, setting new standards for efficiency, reliability, and user experience in stakeholder database management.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/work-2-2.jpg" loading="lazy" alt="Work">
+    <img src="/images/Envolve.png" loading="lazy" alt="Work">
     <img src="/images/work-2-3.jpg" loading="lazy" alt="Work">
   </div>
-  <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
+  <em></a></em>
 </div>
 
-
-There are several other types of books which are not commonly found under this system. Albums are books for holding a group of items belonging to a particular theme, such as a set of photographs, card collections, and memorabilia. One common example is stamp albums, which are used by many hobbyists to protect and organize their collections of postage stamps. Such albums are often made using removable plastic pages held inside in a ringed binder or other similar holder. Picture books are books for children with pictures on every page and less text (or even no text).
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Publishers may produce low-cost, pre-publication copies known as galleys or 'bound proofs' for promotional purposes, such as generating reviews in advance of publication. Galleys are usually made as cheaply as possible, since they are not intended for sale.
-
-Dummy books (or faux books) are books that are designed to imitate a real book by appearance to deceive people, some books may be whole with empty pages, others may be hollow or in other cases, there may be a whole panel carved with spines which are then painted to look like books,  titles of some books may also be fictitious.
-
-The advent of paperback books in the 20th century led to an explosion of popular publishing. Paperback books made owning books affordable for many people. Paperback books often included works from genres that had previously been published mostly in pulp magazines. As a result of the low cost of such books and the spread of bookstores filled with them (in addition to the creation of a smaller market of extremely cheap used paperbacks) owning a private library ceased to be a status symbol for the rich.
