@@ -26,7 +26,6 @@ In summary, the stewardship of the Envolve application under my technical leader
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Envolve.png" loading="lazy" alt="Work">
-    <img src="/images/work-2-3.jpg" loading="lazy" alt="Work">
   </div>
   <em></a></em>
 </div>

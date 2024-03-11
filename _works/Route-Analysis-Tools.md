@@ -17,7 +17,6 @@ The impact of these tools on project timelines and data quality cannot be overst
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/ModelBuilder.png" loading="lazy" alt="Project">
-    <img src="/images/work-1-3.jpg" loading="lazy" alt="Project">
   </div>
   <em></em>
 </div>

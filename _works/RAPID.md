@@ -5,7 +5,7 @@ category: Software Development
 date: 2022-11-06 08:01:35 +0300
 client: 
 role: Technical Project Manager
-image: '/images/RAPID.jpeg'
+image: '/images/Conceptual_Constraint_Map.jpg'
 image_caption: ''
 ---
 
@@ -24,9 +24,9 @@ The technical development of the RAPID tool included the design of a robust SQL 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/RAPID.jpeg" loading="lazy" alt="Project">
-    <img src="/images/work-1-3.jpg" loading="lazy" alt="Project">
+    <img src="/images/Conceptual_Constraint_Map.jpg" loading="lazy" alt="Project">
   </div>
-  <em>Photo by <a href="https://www.freepik.com/" target="_blank">Freepik</a></em>
+  <em></em>
 </div>
 
 <p><iframe src="https://player.vimeo.com/video/843721624?h=51e6f44c28" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></p>

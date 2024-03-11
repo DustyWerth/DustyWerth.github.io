@@ -8,6 +8,8 @@ role: Project Manager
 image: '/images/ModelBuilder.png'
 image_caption: ''
 ---
+
+
 The implementation of the Geospatial Governance Program under my leadership has been a transformative initiative for our organization, estimated to save our GIS staff approximately 6,000 hours this year. This comprehensive program was meticulously designed to enhance the efficiency and effectiveness of our geospatial endeavors through the integration of several key components.
 
 Firstly, the program introduced multiple levels of quality checks, a move that significantly elevated the accuracy and reliability of our geospatial data. These checks ensure that every piece of data, regardless of its source, undergoes rigorous validation before being utilized in our projects. This step is crucial for maintaining the integrity of our analyses and the trust of our clients and stakeholders.

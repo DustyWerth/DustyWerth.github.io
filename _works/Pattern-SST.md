@@ -19,9 +19,9 @@ The Southern Spirit Project stands as a testament to my comprehensive skill set,
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/FAA_DEM.png" loading="lazy" alt="Project">
-    <img src="/images/Aeronautical.png" loading="lazy" alt="Project">
-    <img src="/images/FAA_LAS.png" loading="lazy" alt="Project">
+    <img src="/images/PatternSST.JPG" loading="lazy" alt="Project">
+    <img src="/images/Dashboard_1.png" loading="lazy" alt="Project">
+    <img src="/images/Dashboard_2.png" loading="lazy" alt="Project">
   </div>
   <em></em>
 </div>
