@@ -23,6 +23,8 @@ Employing an agile methodology, I led the development team in a flexible and res
 
 In taking on the role of technical owner post-initial development, my focus was not only on technological enhancements but also on ensuring that Envolve remained a user-centric tool. The aim was to provide our team with a powerful resource that simplifies the complexities of stakeholder management, thereby enabling better decision-making and fostering more meaningful engagements with our stakeholders.
 
+In enhancing the Envolve system, I leveraged Microsoft SQL Management Studio, Power BI, FME Flow, and FME Form to create sophisticated custom data models and reporting mechanisms. This initiative allowed for the generation of dynamic, insightful reports directly within Power BI, alongside custom email reports designed to keep project members and clients informed with the latest data insights. This reporting solution not only improved the decision-making process but also significantly increased the efficiency and effectiveness of our stakeholder engagement strategies, showcasing our capability to adapt and innovate in data management and analysis.
+
 In summary, the stewardship of the Envolve application under my technical leadership underscores a commitment to leveraging advanced technology for effective stakeholder engagement. Through strategic enhancements and continuous improvement, Envolve has become an indispensable tool in our project management toolkit, setting new standards for efficiency, reliability, and user experience in stakeholder database management.
 
 <div class="gallery-box">
