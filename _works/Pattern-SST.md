@@ -1,6 +1,6 @@
 ---
 title: Southern Spirit Transmission Line
-description: Utilizing data from the FAA, airspace protection surfaces are modeled and made available to project teams.
+description: 'Utilizing data from the FAA, airspace protection surfaces are modeled and made available to project teams.'
 category: Routing and Siting
 date: 2016-01-01 08:01:35 +0300
 client: Pattern Energy
