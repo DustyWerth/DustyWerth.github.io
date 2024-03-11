@@ -17,7 +17,7 @@ menu__settings:
     - title: 'Work'
       url: '/work/'
     - title: 'Resume'
-      url: '/resume/'    
+      url: '/Dusty_Werth_Resume.pdf'    
     #- title: "Contact"
     #  url: '/contact/'
     #- title: 'Writing'
