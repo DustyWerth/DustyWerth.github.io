@@ -21,16 +21,16 @@ Additionally, the backend infrastructure of Envolve underwent a significant over
 
 Employing an agile methodology, I led the development team in a flexible and responsive manner, adapting to new requirements and feedback to refine and expand the application’s features. This approach was essential in fostering a dynamic development environment where continuous improvement was not just a goal but a standard practice, ensuring that Envolve would exceed its initial objectives and offer robust support to our stakeholder management processes.
 
-In taking on the role of technical owner post-initial development, my focus was not only on technological enhancements but also on ensuring that Envolve remained a user-centric tool. The aim was to provide our team with a powerful resource that simplifies the complexities of stakeholder management, thereby enabling better decision-making and fostering more meaningful engagements with our stakeholders.
+In taking on the role of technical owner post-initial development, my focus was not only on technological enhancements but also on ensuring that Envolve remained a user-centric application. The aim was to provide our team with a powerful resource that simplifies the complexities of stakeholder management, thereby enabling better decision-making and fostering more meaningful engagements with our stakeholders.
 
 In enhancing the Envolve system, I leveraged Microsoft SQL Management Studio, Power BI, FME Flow, and FME Form to create sophisticated custom data models and reporting mechanisms. This initiative allowed for the generation of dynamic, insightful reports directly within Power BI, alongside custom email reports designed to keep project members and clients informed with the latest data insights. This reporting solution not only improved the decision-making process but also significantly increased the efficiency and effectiveness of our stakeholder engagement strategies, showcasing our capability to adapt and innovate in data management and analysis.
 
-In summary, the stewardship of the Envolve application under my technical leadership underscores a commitment to leveraging advanced technology for effective stakeholder engagement. Through strategic enhancements and continuous improvement, Envolve has become an indispensable tool in our project management toolkit, setting new standards for efficiency, reliability, and user experience in stakeholder database management.
+In summary, the stewardship of the Envolve application under my technical leadership underscores a commitment to leveraging advanced technology for effective stakeholder engagement. Through strategic enhancements and continuous improvement, Envolve has become an indispensable application in our project management toolkit, setting new standards for efficiency, reliability, and user experience in stakeholder database management.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Envolve.png" loading="lazy" alt="Work">
   </div>
-  <em></a></em>
+  <em></em>
 </div>
 
