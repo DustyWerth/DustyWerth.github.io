@@ -4,7 +4,7 @@ description: Envolve is a custom designed stakeholder data management system.
 category: Software Design
 date: 2021-03-05 08:01:35 +0300
 role: Project Manager
-image: '/images/Envolve.png'
+image: '/images/Envolve_Square.jpeg'
 image_caption: 'Envolve Homepage'
 skills: 'Agile, Infrastructure as Code, SQL, DevOps, Power BI, Data Modeling'
 software: '     Power BI, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow'
