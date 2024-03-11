@@ -8,6 +8,7 @@ role: Tool Developer
 image: '/images/ModelBuilder.png'
 image_caption: ''
 ---
+
 Over the span of my career, I have spearheaded the development of innovative data analysis tools specifically designed to optimize the routing and siting process for transmission lines, marking a significant advancement in the efficiency and reliability of project planning and execution. Recognizing the critical need for accurate and rapid analysis of potential routes, I created sophisticated Excel applications capable of swiftly analyzing and comparing thousands of routes. These applications employed advanced functions, custom macros, and automated data processing techniques to streamline the evaluation process, drastically reducing the time required to make informed decisions.
 
 In addition to Excel-based tools, I utilized ArcGIS ModelBuilder to develop comprehensive ArcGIS Models that automate the collection of constraint data. These models were meticulously designed to ensure accuracy and repeatability in gathering environmental, social, and technical constraints — a vital step in the routing and siting process. By integrating these models into our workflow, we were able to standardize the data collection methodology across projects, enhancing the quality of the data collected and ensuring consistency in our analyses.

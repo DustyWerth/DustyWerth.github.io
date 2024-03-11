@@ -6,7 +6,7 @@ date: 2016-01-01 08:01:35 +0300
 client: Pattern Energy
 role: Assitant Project Manager
 image: '/images/PatternSST.JPG'
-image_caption: 'Pattern Website'
+image_caption: ''
 ---
 
 Over the span of more than a decade, my role in the Southern Spirit Project has been multifaceted and critical to its success. As the main GIS user, I was responsible for managing an extensive array of geospatial data that was crucial for the project's development. This included sourcing data from federal levels, three different states, and multiple third-party vendors, which required substantial coordination and integration efforts. The lack of digital records in certain areas necessitated large-scale digitization efforts, underscoring the project's complexity and the depth of my involvement.
@@ -19,7 +19,7 @@ The Southern Spirit Project stands as a testament to my comprehensive skill set,
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/PatternSST.JPG" loading="lazy" alt="Project">
+    <img src="/images/PatternSST.jpg" loading="lazy" alt="Project">
     <img src="/images/Dashboard_1.png" loading="lazy" alt="Project">
     <img src="/images/Dashboard_2.png" loading="lazy" alt="Project">
   </div>
