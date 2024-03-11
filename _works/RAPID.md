@@ -21,8 +21,8 @@ software: 'Leaflet, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow
 <font size="2"><strong>-Technical Infrastructure and Development Strategy:</strong> Utilized Infrastructure as Code with Bicep for automated deployment, outlined a clear architectural blueprint, and led the development process through agile methodology, ensuring alignment with user requirements and project objectives.</font>
 
 <font size="2"><strong>-Collaborative Leadership and Technical Innovation:</strong> Led a multidisciplinary team and managed the development of a robust SQL database and FME flow workspaces, which were critical for the tool's data management and automated data transformation, setting a new standard in environmental consulting and GIS applications.</font>
-
-
+<br>
+<br>
 <strong>Detailed Project Description:</strong>
 
 In the development of the RAPID tool, a project that marked a significant milestone in our approach to environmental consulting and GIS applications, I played a crucial role in steering the project from its conceptualization to its successful launch. At the heart of RAPID’s innovation was the seamless integration of Leaflet with ArcGIS Online (AGOL), enabling an intuitive and dynamic mapping experience that was both user-friendly and powerful in its capabilities. This integration was pivotal in enhancing the tool’s accessibility and effectiveness, allowing users to visualize and interact with geographic data in real-time.
