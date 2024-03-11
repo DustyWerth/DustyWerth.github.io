@@ -16,7 +16,7 @@ menu__settings:
       url: '/about/'
     - title: 'Work'
       url: '/work/'
-   - title: 'Resume'
+    - title: 'Resume'
       url: '/resume/'    
     #- title: "Contact"
     #  url: '/contact/'
