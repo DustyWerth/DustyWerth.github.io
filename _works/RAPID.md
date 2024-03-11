@@ -10,8 +10,7 @@ image_caption: ''
 skills: 'Agile, Infrastructure as Code, SQL, DevOps'
 software: 'Leaflet, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow'
 ---
-<strong>Summary:</strong>
-
+<font size="6"><strong>Summary:</strong></font><br>
 <font size="2"><strong>-Development and Launch of RAPID Tool:</strong> Played a crucial role in steering the RAPID project from its inception to launch, integrating Leaflet with ArcGIS Online to create a user-friendly and dynamic mapping experience.</font>
 
 <font size="2"><strong>-Enhanced Accessibility and Effectiveness:</strong> The integration significantly improved the tool's accessibility and effectiveness, enabling real-time interaction with geographic data and supporting the visualization needs of users.</font>
@@ -22,9 +21,7 @@ software: 'Leaflet, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow
 
 <font size="2"><strong>-Collaborative Leadership and Technical Innovation:</strong> Led a multidisciplinary team and managed the development of a robust SQL database and FME flow workspaces, which were critical for the tool's data management and automated data transformation, setting a new standard in environmental consulting and GIS applications.</font>
 <br>
-<br>
-<strong>Detailed Project Description:</strong>
-
+<font size="6"><strong>Detailed Project Description:</strong></font><br>
 In the development of the RAPID tool, a project that marked a significant milestone in our approach to environmental consulting and GIS applications, I played a crucial role in steering the project from its conceptualization to its successful launch. At the heart of RAPID’s innovation was the seamless integration of Leaflet with ArcGIS Online (AGOL), enabling an intuitive and dynamic mapping experience that was both user-friendly and powerful in its capabilities. This integration was pivotal in enhancing the tool’s accessibility and effectiveness, allowing users to visualize and interact with geographic data in real-time.
 
 The project ambitiously aimed to serve both internal operational needs and external business development goals. The external version of the tool is available [Here](https://ens-rapid-prod.azurewebsites.net/Login) and is designed as a business development tool to assist in capturing early project information. This facet of RAPID allows end users to rank approximately 30 different constraints critical to the siting of various energy facilities. The tool then generates a conceptual constraint map along with potential corridors for linear infrastructure, embodying the first step towards a full AI Generative routing study. I firmly believe these generative tools will revolutionize the competitive energy sectors, such as renewables development and FERC 1000 projects, as well as traditional energy sectors, marking a new era of efficiency and precision in project planning and execution.
