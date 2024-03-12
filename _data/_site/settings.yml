@@ -34,7 +34,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Dusty Werth
-  author__bio: Hello World, I'm Dusty — an innovator with over 17 years in GIS and environmental consulting. I specialize in process mapping, tool development, leading project teams, and overall problem solving. My expertise in data analysis and  data visualization paired with my experience with cloud platforms and programing has allowed me to innovate and enhance efficiency.
+  author__bio: Hello World, I'm Dusty — an innovator with over 17 years in GIS and environmental consulting. I specialize in process mapping, application development, leading project teams, and overall problem solving. My expertise in data analysis and  data visualization paired with my experience with cloud platforms and programing has allowed me to innovate and enhance efficiency.
   author__avatar: '/images/DustyWerth.jpeg'
 
 social:
@@ -55,7 +55,7 @@ social:
 hero:
   enable: true
   hero__title: Hello World!
-  hero__description: I'm Dusty — an innovator with over 17 years in GIS and environmental consulting. I specialize in process mapping, tool development, leading and contributing to project teams, and overall problem solving. My expertise in data analysis and  data visualization paired with my experience with cloud platforms and programing has allowed me to innovate and enhance efficiency.
+  hero__description: I'm Dusty — an innovator with over 17 years in GIS and environmental consulting. I specialize in process mapping, application development, leading and contributing to project teams, and overall problem solving. My expertise in data analysis and  data visualization paired with my experience with cloud platforms and programing has allowed me to innovate and enhance efficiency.
   hero__image: "/images/FAA_DEM.png"
 
 
@@ -112,7 +112,7 @@ work:
 testimonials:
   enable: true
 
-testimonial__title: Clients
+testimonial__title: Co-workers
 testimonial__description:
 
 testimonial__items:
