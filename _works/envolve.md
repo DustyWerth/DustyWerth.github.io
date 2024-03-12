@@ -30,6 +30,7 @@ In summary, the stewardship of the Envolve application under my technical leader
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/Envolve.png" loading="lazy" alt="Work">
+    <img src="/images/PowerBI.jpeg" loading="lazy" alt="Work">
   </div>
   <em></em>
 </div>

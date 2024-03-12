@@ -10,8 +10,9 @@ image_caption: ''
 skills: 'Agile, Infrastructure as Code, SQL, DevOps'
 software: 'Leaflet, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow'
 ---
+<li class="work-meta__item"></li>
 <font size="6"><strong>Summary:</strong></font><font size="1"><br></font>
-<font size="3"><strong>-Development and Launch of RAPID Application:</strong> Played a crucial role in steering the RAPID project from its inception to launch, integrating Leaflet with ArcGIS Online to create a user-friendly and dynamic mapping experience.</font>
+<font size="3"><strong>-Development and Launch of RAPID Application:</strong> Played a crucial role in steering the RAPID project from its inception to launch, integrating Leaflet with ArcGIS Online to create a user-friendly and dynamic mapping experience.</font></li>
 <font size="1"><br></font>
 <font size="3"><strong>-Enhanced Accessibility and Effectiveness:</strong> The integration significantly improved the application's accessibility and effectiveness, enabling real-time interaction with geographic data and supporting the visualization needs of users.</font>
 <font size="1"><br></font>
