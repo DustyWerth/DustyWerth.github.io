@@ -1,8 +1,8 @@
 ---
 title: Wolf Creek to Blackberry
 description: Wolf Creek to Blackberry transmission line routing and siting study.
-category: Transmission Line Routing
-date: 2023-01-10 08:01:35 +0300
+category: Routing and Siting
+date: 2019-12-10 08:01:35 +0300
 client: NextEra Energy Transmission Southwest
 role: Routing Specialist
 image: '/images/IMG_2953.jpg'
@@ -39,5 +39,3 @@ Overall, my involvement with the Wolf Creek to Blackberry transmission line proj
   </div>
   <em></em>
 </div>
-
-The application's precision and utility can be exponentially increased through the incorporation of high-accuracy ground surveys, such as LiDAR scans. This advanced approach not only refines the accuracy of our models but also solidifies our commitment to leveraging cutting-edge technology to meet the evolving needs of our projects and clients. Through these innovations, we are setting new standards in project safety and efficiency, ensuring our teams are equipped with the necessary applications to navigate the complexities of airspace regulations seamlessly.
