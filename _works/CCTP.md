@@ -5,7 +5,7 @@ category: Routing and Siting
 date: 2012-12-10 08:01:35 +0300
 client: NYSEG
 role: Routing Specialist
-image: '/images/IMG_2953.jpg'
+image: '/images/CCTP_Map.jpg'
 image_caption: 'Route Map'
 skills: 'Routing and Siting, GIS Data Management, Project Management, Testimony'
 software: 'ArcGIS Desktop, Microsoft Office, ArcGIS Modelbuilder'
@@ -34,9 +34,7 @@ In summary, my work on the Columbia County Transmission Project covered environm
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/IMG_2953.jpg" loading="lazy" alt="Project">
-    <img src="/images/Bald_Eagle.jpeg" loading="lazy" alt="Project">
-    <img src="/images/IMG_3048.jpg" loading="lazy" alt="Project">
+    <img src="/images/CCTP_Map.jpg" loading="lazy" alt="Project">
   </div>
   <em></em>
 </div>
