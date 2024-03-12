@@ -9,7 +9,7 @@ image_caption: 'Envolve Homepage'
 skills: 'Agile, Infrastructure as Code, SQL, DevOps, Power BI, Data Modeling'
 software: '     Power BI, Microsoft SQL Management Studio, VS Code, FME Form, FME Flow'
 ---
-font size="6"><strong>Summary:</strong></font>
+<font size="6"><strong>Summary:</strong></font>
 <li class="work-meta__item"><font size="3"><strong>Technical Leadership in Enhancing Envolve:</strong> Took over as the technical owner post-initial development, focusing on enhancing the application's functionality, scalability, and user experience to meet evolving organizational needs.</li>
 <li class="work-meta__item"><font size="3"><strong>Streamlining Stakeholder Engagement:</strong> Aimed to streamline the stakeholder engagement process by managing extensive data sets, facilitating communication, and tracking interactions effectively.</li>
 <li class="work-meta__item"><font size="3"><strong>Infrastructure Optimization:</strong> Overhauled the application's backend for increased security and scalability, aligning development, testing, and production environments for consistency and efficiency in deployment.</li>
