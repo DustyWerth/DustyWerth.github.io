@@ -112,7 +112,7 @@ work:
 testimonials:
   enable: true
 
-testimonial__title: Co-workers
+testimonial__title: "Co-workers"
 testimonial__description:
 
 testimonial__items:
