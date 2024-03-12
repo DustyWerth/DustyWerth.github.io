@@ -35,7 +35,7 @@ Overall, my involvement with the Wolf Creek to Blackberry transmission line proj
   <div class="gallery">
     <img src="/images/IMG_2953.jpg" loading="lazy" alt="Project">
     <img src="/images/Bald_Eagle.jpeg" loading="lazy" alt="Project">
-    <img src="/images/Image_3048.jpg" loading="lazy" alt="Project">
+    <img src="/images/IMG_3048.jpg" loading="lazy" alt="Project">
   </div>
   <em></em>
 </div>
