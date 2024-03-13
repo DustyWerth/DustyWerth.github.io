@@ -116,11 +116,11 @@ testimonial__title: "Co-workers"
 testimonial__description:
 
 testimonial__items:
-  - name: "Hanna Septimus"
+  - name: "Jerrad Dringman"
     image: "/images/client-1.jpg"
-    designation: "Product Designer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    designation: "Senior Geospatial Consultant"
+    link: "https://www.linkedin.com/in/jerrad-dringman-12722b51/"
+    content : "I have worked with Dusty for nearly 12 years now.  His technical expertise and problem solving make him a wonderful addition to any team. He is one of my great mentors that has helped shape my career."
 
   - name: "Carla Rosser"
     image: "/images/client-2.jpg"
