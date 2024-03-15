@@ -59,6 +59,9 @@ At heart, I'm someone who seeks to embrace life fully, from intellectual challen
 
 Welcome to my page, and thank you for joining me on this journey.
 
+{% raw %}
 {% leaflet_map %}
     {}
+    {% leaflet_geojson "/_geojson/hike.geojson" %}
 {% endleaflet_map %}
+{% endraw %}
