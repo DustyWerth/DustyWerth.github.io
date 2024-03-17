@@ -59,6 +59,4 @@ At heart, I'm someone who seeks to embrace life fully, from intellectual challen
 
 Welcome to my page, and thank you for joining me on this journey.
 
-{% leaflet_map %}
-    {}
-{% endleaflet_map %}
+
