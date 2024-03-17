@@ -72,7 +72,6 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-sitemap
-  jekyll-leaflet
 
 BUNDLED WITH
    2.3.26
