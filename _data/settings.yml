@@ -140,11 +140,11 @@ testimonial__items:
     link: "https://www.linkedin.com/in/mark-mccart-fmep-fmesp-65866714/"
     content : "I worked with Dusty Werth on multiple GIS and FME projects. During that time, he has set the standard for keeping up with all the latest spatial data technology. He is a strong leader and keen technical project manager. He is always looking for innovative ways to improve existing solutions and invent new ones. He also has strong technical writing experience and has led many technical workshops and trainings. He will be a great addition to any firm that hires him."
 
-  - name: "Ryan Cross"
-      image: "/images/Ryan.jpg"
-      designation: "Senior Practice Manager -Transmission"
-      link: "https://www.linkedin.com/in/rjcross/"
-      content : "I had the pleasure of working with Dusty on multiple projects involving new transmission lines in the Northeast. His attention to detail is excellent. He is well versed in not only how to approach new line permitting, but the why of the specific steps and process needed associated with this type of work. Outstanding team player and a great individual to work with on projects. I would highly recommend Dusty for any permitting needs."
+- name: "Ryan Cross"
+    image: "/images/Ryan.jpg"
+    designation: "Senior Practice Manager -Transmission"
+    link: "https://www.linkedin.com/in/rjcross/"
+    content : "I had the pleasure of working with Dusty on multiple projects involving new transmission lines in the Northeast. His attention to detail is excellent. He is well versed in not only how to approach new line permitting, but the why of the specific steps and process needed associated with this type of work. Outstanding team player and a great individual to work with on projects. I would highly recommend Dusty for any permitting needs."
     
 #-------------------------------
 # Blog Section
