@@ -116,36 +116,38 @@ testimonial__title: "Co-workers"
 testimonial__description:
 
 testimonial__items:
-  - name: "Jerrad Dringman"
-    image: "/images/Jerrad.jpg"
-    designation: "Senior Geospatial Consultant"
-    link: "https://www.linkedin.com/in/jerrad-dringman-12722b51/"
-    content : "I have worked with Dusty for nearly 12 years now.  His technical expertise and problem solving make him a wonderful addition to any team. He is one of my great mentors that has helped shape my career."
+  - name: "Hanna Septimus"
+    image: "/images/client-1.jpg"
+    designation: "Product Designer"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  #- name: "Kristi Wise"
-  #  image: "/images/Kristi.jpg"
-  #  designation: "Project Manager"
-  #  link: "https://www.linkedin.com/in/kristi-wise/"
-  #  content : "  "
+  - name: "Carla Rosser"
+    image: "/images/client-2.jpg"
+    designation: "Statistician"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Prafull Mohite"
-    image: "/images/Prafull.jpg"
+  - name: "Maria Curtis"
+    image: "/images/client-3.jpg"
     designation: "Team Lead"
-    link: "linkedin.com/in/prafull-mohite-csm®-63a66095"
-    content : "I have had the privilege of working under Dusty on geospatial data management projects, collaborating as our US counterpart. His expert proficiency in ArcGis and FME servers, along with his adeptness in Azure cloud-based activities, has greatly contributed to the success of our projects. Dusty effectively manages both the US and India teams, demonstrating excellent leadership. His comprehensive understanding of technical aspects enhances the efficiency of the India team."
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Mark McCart"
-    image: "/images/Mark.jpg"
-    designation: "GIS Specialist/ETL Developer"
-    link: "https://www.linkedin.com/in/mark-mccart-fmep-fmesp-65866714/"
-    content : "I worked with Dusty Werth on multiple GIS and FME projects. During that time, he has set the standard for keeping up with all the latest spatial data technology. He is a strong leader and keen technical project manager. He is always looking for innovative ways to improve existing solutions and invent new ones. He also has strong technical writing experience and has led many technical workshops and trainings. He will be a great addition to any firm that hires him."
+  - name: "Carter Bergson"
+    image: "/images/client-4.jpg"
+    designation: "CEO, Founder"
+    link: "https://facebook.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
-  - name: "Ryan Cross"
-      image: "/images/Ryan.jpg"
-      designation: "Senior Practice Manager -Transmission"
-      link: "https://www.linkedin.com/in/rjcross/"
-      content : "I had the pleasure of working with Dusty on multiple projects involving new transmission lines in the Northeast. His attention to detail is excellent. He is well versed in not only how to approach new line permitting, but the why of the specific steps and process needed associated with this type of work. Outstanding team player and a great individual to work with on projects. I would highly recommend Dusty for any permitting needs."
-    
+  - name: "Jordyn Franci"
+    image: "/images/client-5.jpg"
+    designation: "Personal Trainer"
+    link: "https://twitter.com/"
+    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+ 
+
 #-------------------------------
 # Blog Section
 blog:
