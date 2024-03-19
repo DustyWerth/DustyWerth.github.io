@@ -59,4 +59,40 @@ At heart, I'm someone who seeks to embrace life fully, from intellectual challen
 
 Welcome to my page, and thank you for joining me on this journey.
 
+<div id="mapid" style="height: 400px;"></div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var map = L.map('mapid').setView([39.061122083, -100.240289294], 1);
+  L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+    attribution: 'Map data © <a href="https://opentopomap.org">OpenTopoMap</a>',
+    maxZoom: 17,
+  }).addTo(map);
+
+  // Define the marker options
+  var geojsonMarkerOptions = {
+    radius: 8,
+    fillColor: "#ff7800",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+  };
+
+  // Fetch the GeoJSON data
+  fetch('_geojson/Travel_Locs.geojson')
+    .then(function(response) { return response.json(); })
+    .then(function(data) {
+      L.geoJSON(data, {
+        pointToLayer: function (feature, latlng) {
+          return L.circleMarker(latlng, geojsonMarkerOptions);
+        }
+      }).addTo(map);
+    })
+    .catch(function(error) {
+      console.error('Error fetching GeoJSON: ', error);
+    });
+});
+</script>
+
+
 

@@ -1,0 +1,1638 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "NewFeatureType",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -105.7029047919, 40.3539059553 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"Name" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -83.5206257336, 35.6084814067 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"Name" : "Great Smoky Mountains National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.0291690126, 36.4524528228 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"Name" : "Pea Ridge Battlefield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.7329178137, 39.3230872323 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"Name" : "Harpers Ferry"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.4818567156, 39.1132293303 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"Name" : "Chesapeake and Ohio Canal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.3930851498, 39.3611984852 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"Name" : "Monocacy National Battlefield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.7359879877, 39.4623930012 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"Name" : "Antietam National Battlefield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.5944384568, 39.5558390057 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"Name" : "Appalachian Trail"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.4692045018, 39.6532431069 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"Name" : "Catoctin Mountain Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -75.1494216052, 39.951685579 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"Name" : "Independence National Historical Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -89.6547106394, 32.8707173115 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"Name" : "Natchez Trace Parkway"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.8522209079, 32.3475951423 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"Name" : "Vicksburg National Military Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -99.6178508649, 39.3903671841 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"Name" : "Nicodemus National Historic Site"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.9532940621, 33.8993423747 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"Name" : "Joshua Tree National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.1388026479, 36.5668228068 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"Name" : "Death Valley National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -109.7726566823, 34.9310611418 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"Name" : "Petrified Forest National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -150.6029670414, 63.3262903935 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"Name" : "Denali National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -150.2465915557, 59.8091923978 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"Name" : "Kenai Fjords National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -136.8691277621, 58.8274076746 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"Name" : "Glacier Bay National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.9548411844, 25.2825727479 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"Name" : "Everglades National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -66.1204933058, 18.4685174576 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"Name" : "San Juan National Historic Site"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -91.4063198142, 32.6349438467 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"Name" : "Poverty Point National Monument"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.1754109785, 38.6234608237 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"Name" : "Gateway Arch National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -157.9385136054, 21.3669968634 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"Name" : "Pearl Harbor National Memorial"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 72.9350470007, 18.9553616537 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"Name" : "Elephanta Island"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 72.9015861739, 19.1344581837 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"Name" : "Mumbai"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -3.7031143761, 40.4179871029 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"Name" : "Madrid"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -5.9880280556, 37.3836301027 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"Name" : "Seville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 2.1813891716, 41.3953201856 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"Name" : "Barcelona"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -9.1419707829, 38.7212595669 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"Name" : "Lisbon"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -69.9757058363, 12.508920962 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"Name" : "Aruba"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -86.8466012915, 21.1700169882 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"Name" : "Mexico"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.2739864044, 18.1664714809 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"Name" : "Jamaica"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.2367288581, 19.3160636966 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"Name" : "Cayman Islands"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -65.288221184, 18.3289362449 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"Name" : "Culebra"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -65.4012275462, 18.131054472 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"Name" : "Vieques"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.5259607025, 21.7006760416 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"Name" : "Turks and Caicos"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.4310495896, 26.6480815285 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"Name" : "Bahamas"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.7850497242, 24.5525572216 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"Name" : "Key West"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -116.5378118518, 33.8320654923 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"Name" : "Palm Springs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -112.1067068262, 33.4534170952 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"Name" : "Phoenix"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -101.8161733119, 35.2015216287 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"Name" : "Amarillo"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -104.5907107958, 38.2430280367 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"Name" : "Pueblo"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -104.7933455567, 38.8404137668 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"Name" : "Colorado Springs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -105.0037739609, 39.7271606012 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"Name" : "Denver"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -96.8008071256, 32.7597505512 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"Name" : "Dallas"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -95.3692704822, 29.7629418013 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"Name" : "Houston"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -97.7475167256, 30.2510284028 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"Name" : "Austin"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.1786283468, 32.3106444867 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"Name" : "Jackson"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -92.1099558328, 32.4939220463 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"Name" : "Monroe"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.7507861259, 32.5073836438 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"Name" : "Shreveport"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -88.8123338604, 33.4526536979 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"Name" : "Starkville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -86.8043917309, 33.5351813081 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"Name" : "Birmingham"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -84.3974149958, 33.7504462143 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"Name" : "Atlanta"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -78.6305676708, 35.7683046792 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"Name" : "Raleigh"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.0140005846, 34.0091770566 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"Name" : "Columbia"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.9563979269, 34.2404062835 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"Name" : "Wilmington"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.8643626076, 35.2323389202 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"Name" : "Charlotte"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -82.5353200138, 35.6063017539 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"Name" : "Asheville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -82.3806941044, 34.8402705312 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"Name" : "Greenville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -76.2854405207, 36.8375768343 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"Name" : "Norfolk"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.4426408742, 37.5290292228 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"Name" : "Richmond"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.4127132786, 39.418859357 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"Name" : "Frederick"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -76.6018953926, 39.2862331914 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"Name" : "Baltimore"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.6202883969, 40.7081659894 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"Name" : "New York"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -73.7607485777, 42.6463775467 ]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"Name" : "Albany"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.6594130692, 41.7691474076 ]
+			},
+			"properties" : {
+				"OBJECTID" : 43,
+				"Name" : "Hartford"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -72.5764138717, 42.1063455112 ]
+			},
+			"properties" : {
+				"OBJECTID" : 44,
+				"Name" : "Springfield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.0632746514, 42.3545349447 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"Name" : "Boston"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -71.4271942105, 41.826263825 ]
+			},
+			"properties" : {
+				"OBJECTID" : 46,
+				"Name" : "Providence"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.602254716, 43.1576065341 ]
+			},
+			"properties" : {
+				"OBJECTID" : 47,
+				"Name" : "Rochester"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -75.9263093765, 42.0933182189 ]
+			},
+			"properties" : {
+				"OBJECTID" : 48,
+				"Name" : "Binghamton"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.0014502756, 40.4400810331 ]
+			},
+			"properties" : {
+				"OBJECTID" : 49,
+				"Name" : "Pittsburgh"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.7211638352, 39.6405572217 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50,
+				"Name" : "Hagerstown"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.9663568478, 39.4567066917 ]
+			},
+			"properties" : {
+				"OBJECTID" : 51,
+				"Name" : "Martinsburg"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.4886237866, 38.9237242651 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52,
+				"Name" : "Dulles"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.7670174452, 36.083402006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 53,
+				"Name" : "Greensboro"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -83.8870497372, 35.9623775337 ]
+			},
+			"properties" : {
+				"OBJECTID" : 54,
+				"Name" : "Knoxville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -79.9489133797, 32.7815597299 ]
+			},
+			"properties" : {
+				"OBJECTID" : 55,
+				"Name" : "Charleston"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.055152352, 26.714484398 ]
+			},
+			"properties" : {
+				"OBJECTID" : 56,
+				"Name" : "West Palm Beach"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -95.9179430638, 41.2438101328 ]
+			},
+			"properties" : {
+				"OBJECTID" : 57,
+				"Name" : "Omaha"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.6234940874, 41.5730186441 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58,
+				"Name" : "Des Moines"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.1754109785, 38.6234608237 ]
+			},
+			"properties" : {
+				"OBJECTID" : 59,
+				"Name" : "St. Louis"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -87.6978302104, 41.8634216316 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"Name" : "Chicago"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -85.1140811459, 41.0597782032 ]
+			},
+			"properties" : {
+				"OBJECTID" : 61,
+				"Name" : "Fort Wayne"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -86.151571118, 39.7724608477 ]
+			},
+			"properties" : {
+				"OBJECTID" : 62,
+				"Name" : "Indianapolis"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -84.5255051038, 39.137001225 ]
+			},
+			"properties" : {
+				"OBJECTID" : 63,
+				"Name" : "Cincinnati"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -82.9942098096, 39.9638778809 ]
+			},
+			"properties" : {
+				"OBJECTID" : 64,
+				"Name" : "Columbus"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.6524559511, 41.4609758913 ]
+			},
+			"properties" : {
+				"OBJECTID" : 65,
+				"Name" : "Cleveland"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -83.5428823904, 41.6289672742 ]
+			},
+			"properties" : {
+				"OBJECTID" : 66,
+				"Name" : "Toledo"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -83.1488357182, 42.3666239706 ]
+			},
+			"properties" : {
+				"OBJECTID" : 67,
+				"Name" : "Detroit"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -84.3434505179, 46.5212593369 ]
+			},
+			"properties" : {
+				"OBJECTID" : 68,
+				"Name" : "Sault Ste Marie"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -87.9663804992, 43.0349365629 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69,
+				"Name" : "Milwaukee"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -92.4482124789, 44.0078059569 ]
+			},
+			"properties" : {
+				"OBJECTID" : 70,
+				"Name" : "Rochester"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -96.7425106642, 43.5068152123 ]
+			},
+			"properties" : {
+				"OBJECTID" : 71,
+				"Name" : "Sioux Falls"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -100.7484439991, 46.8083851412 ]
+			},
+			"properties" : {
+				"OBJECTID" : 72,
+				"Name" : "Bismark"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -122.3368395952, 47.597325193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 73,
+				"Name" : "Seattle"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -123.0772358341, 49.2317732299 ]
+			},
+			"properties" : {
+				"OBJECTID" : 74,
+				"Name" : "Vancouver"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -149.7938495907, 61.1945835749 ]
+			},
+			"properties" : {
+				"OBJECTID" : 75,
+				"Name" : "Anchorage"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -149.1098310953, 60.9600493471 ]
+			},
+			"properties" : {
+				"OBJECTID" : 76,
+				"Name" : "Alyeska"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -151.5234152043, 59.6446208746 ]
+			},
+			"properties" : {
+				"OBJECTID" : 77,
+				"Name" : "Homer"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -149.4384593961, 60.107721923 ]
+			},
+			"properties" : {
+				"OBJECTID" : 78,
+				"Name" : "Seward"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -131.6315401686, 55.3374429035 ]
+			},
+			"properties" : {
+				"OBJECTID" : 79,
+				"Name" : "Ketchikan"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -134.4048306705, 58.3027920123 ]
+			},
+			"properties" : {
+				"OBJECTID" : 80,
+				"Name" : "Juneau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -150.0912800089, 62.3221987284 ]
+			},
+			"properties" : {
+				"OBJECTID" : 81,
+				"Name" : "Talkeetna"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -148.8877916418, 63.3867558697 ]
+			},
+			"properties" : {
+				"OBJECTID" : 82,
+				"Name" : "Cantwell"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -147.7363274105, 64.8220320138 ]
+			},
+			"properties" : {
+				"OBJECTID" : 83,
+				"Name" : "Fairbanks"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -84.6471092704, 10.4709195219 ]
+			},
+			"properties" : {
+				"OBJECTID" : 84,
+				"Name" : "La Fortuna"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -84.0741454646, 9.9360658048 ]
+			},
+			"properties" : {
+				"OBJECTID" : 85,
+				"Name" : "San Jose"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -157.7976436006, 21.4183254963 ]
+			},
+			"properties" : {
+				"OBJECTID" : 86,
+				"Name" : "Kaneohe"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -158.1228396794, 21.3397057632 ]
+			},
+			"properties" : {
+				"OBJECTID" : 87,
+				"Name" : "Ko Olina"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -103.7235247944, 35.165063509 ]
+			},
+			"properties" : {
+				"OBJECTID" : 88,
+				"Name" : "Tucumari"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -100.2064881299, 34.4301647878 ]
+			},
+			"properties" : {
+				"OBJECTID" : 89,
+				"Name" : "Childress"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -100.9689389073, 35.5291027537 ]
+			},
+			"properties" : {
+				"OBJECTID" : 90,
+				"Name" : "Pampa"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.7367694834, 36.4029675482 ]
+			},
+			"properties" : {
+				"OBJECTID" : 91,
+				"Name" : "Eureka Springs"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.6335861746, 36.6345458863 ]
+			},
+			"properties" : {
+				"OBJECTID" : 92,
+				"Name" : "Shell Knob"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.2192404416, 36.6422551099 ]
+			},
+			"properties" : {
+				"OBJECTID" : 93,
+				"Name" : "Branson"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.2932911433, 37.2116572576 ]
+			},
+			"properties" : {
+				"OBJECTID" : 94,
+				"Name" : "Springfield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -92.3272102195, 38.9391393216 ]
+			},
+			"properties" : {
+				"OBJECTID" : 95,
+				"Name" : "Columbia"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -91.3810274015, 39.9330017974 ]
+			},
+			"properties" : {
+				"OBJECTID" : 96,
+				"Name" : "Quincy"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -92.5786330126, 40.1914661272 ]
+			},
+			"properties" : {
+				"OBJECTID" : 97,
+				"Name" : "Kirksville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.1485184441, 36.1568152158 ]
+			},
+			"properties" : {
+				"OBJECTID" : 98,
+				"Name" : "Las Vegas"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -119.7912523716, 36.7429515501 ]
+			},
+			"properties" : {
+				"OBJECTID" : 100,
+				"Name" : "Fresno"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -87.5590743502, 37.9881574649 ]
+			},
+			"properties" : {
+				"OBJECTID" : 101,
+				"Name" : "Evansville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -86.7636440903, 36.1626801521 ]
+			},
+			"properties" : {
+				"OBJECTID" : 102,
+				"Name" : "Nashville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -89.5530981534, 37.3094803676 ]
+			},
+			"properties" : {
+				"OBJECTID" : 103,
+				"Name" : "Cape Girardeau"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -89.6586419195, 39.792904107 ]
+			},
+			"properties" : {
+				"OBJECTID" : 104,
+				"Name" : "Springfield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -86.9186043015, 40.4236286505 ]
+			},
+			"properties" : {
+				"OBJECTID" : 105,
+				"Name" : "Lafayette"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -81.6258093075, 38.340301439 ]
+			},
+			"properties" : {
+				"OBJECTID" : 106,
+				"Name" : "Charleston"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.3694401926, 35.6114924617 ]
+			},
+			"properties" : {
+				"OBJECTID" : 107,
+				"Name" : "Greenville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.4318669397, 34.7440729672 ]
+			},
+			"properties" : {
+				"OBJECTID" : 108,
+				"Name" : "Jacksonville"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.0761207902, 29.9570624061 ]
+			},
+			"properties" : {
+				"OBJECTID" : 109,
+				"Name" : "New Orleans"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.350054053, 39.009781739, 0 ]
+			},
+			"properties" : {
+				"Name" : "Premium Spot"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.320432114, 37.873381261, 0 ]
+			},
+			"properties" : {
+				"Name" : "112"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -100.240289294, 39.061122083, 0 ]
+			},
+			"properties" : {
+				"Name" : "Quinter Stop Over"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -105.54189303, 40.362751301, 0 ]
+			},
+			"properties" : {
+				"Name" : "Site"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -97.623530794, 38.877238052, 0 ]
+			},
+			"properties" : {
+				"Name" : "KOA stop-over"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.44907329, 38.286702027, 0 ]
+			},
+			"properties" : {
+				"Name" : "Truman State Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.349952376, 39.009745815, 0 ]
+			},
+			"properties" : {
+				"Name" : "Blue Springs 4/8-4/11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.793416563, 36.419568283, 0 ]
+			},
+			"properties" : {
+				"Name" : "Eureka Springs KOA 5/28-5/31"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.868589903, 39.395425205, 0 ]
+			},
+			"properties" : {
+				"Name" : "Weston Bend 5/7-5/9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.928290178, 38.642964279, 0 ]
+			},
+			"properties" : {
+				"Name" : "Hillsdale 4/23/21-4/25/21"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -98.609918105, 37.24885113, 0 ]
+			},
+			"properties" : {
+				"Name" : "Medicine Lodge 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.346461215, 39.010398911, 0 ]
+			},
+			"properties" : {
+				"Name" : "Blue Springs 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -83.629856053, 35.784849826, 0 ]
+			},
+			"properties" : {
+				"Name" : "Pigeon Forge 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -88.930785068, 38.012998042, 0 ]
+			},
+			"properties" : {
+				"Name" : "Benton IL 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.701920419, 39.377521513, 0 ]
+			},
+			"properties" : {
+				"Name" : "Basswood Resort 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.216808731, 36.636051736, 0 ]
+			},
+			"properties" : {
+				"Name" : "Branson Lakeview RV 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.368497233, 38.23846705, 0 ]
+			},
+			"properties" : {
+				"Name" : "Deer Rest 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -105.540429763, 40.362710749, 0 ]
+			},
+			"properties" : {
+				"Name" : "Estes Park 2022"
+			}
+		}
+	]
+}
