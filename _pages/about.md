@@ -7,7 +7,7 @@ image: '/images/DustyWerth2.jpg'
 image_caption: ''
 ---
 
-Hello! I'm Dusty, with a rich career spanning over 17 years in GIS and environmental consulting. My professional days are filled with process mapping, developing innovative tools, and leading dedicated teams through complex projects. My journey is underpinned by deep technical knowledge across data analysis, data visualization, cloud platforms, and application development. This blend of skills has allowed me to drive significant improvements in quality, efficiency, innovation, and training.
+Hello! I'm Dusty, with a varied career spanning over 17 years in GIS and environmental consulting. My professional days are filled with process mapping, developing innovative tools, and leading dedicated teams through complex projects. My journey is underpinned by deep technical knowledge across data analysis, data visualization, cloud platforms, and application development. This blend of skills has allowed me to drive significant improvements in quality, efficiency, innovation, and training.
 
 Beyond my professional life, I'm deeply passionate about exploring the world and its myriad cultures. Traveling is more than a hobby—it's a way of life that opens my mind to new perspectives and inspires my every endeavor. Whether it's the vibrant life in a foreign city or the serene beauty of a secluded spot, each destination offers new lessons, fresh challenges, and the chance to connect with diverse people.
 
