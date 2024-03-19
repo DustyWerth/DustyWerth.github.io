@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Dusty Werth
+title: "Dusty Werth"
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Creative Portfolio Theme for Jekyll.
+description: "Creative Portfolio Theme for Jekyll."
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -34,8 +34,8 @@ menu__settings:
 # Author Settings
 author:
   author__name: Dusty Werth
-  author__bio: Hello World, I'm Dusty — an innovator with over 17 years in GIS and environmental consulting. I specialize in process mapping, application development, leading project teams, and overall problem solving. My expertise in data analysis and  data visualization paired with my experience with cloud platforms and programing has allowed me to innovate and enhance efficiency.
-  author__avatar: '/images/DustyWerth.jpeg'
+  author__bio: "Hello World, I'm Dusty — an innovator with over 17 years in GIS and environmental consulting. I specialize in process mapping, application development, leading project teams, and overall problem solving. My expertise in data analysis and  data visualization paired with my experience with cloud platforms and programing has allowed me to innovate and enhance efficiency."
+  author__avatar: "/images/DustyWerth.jpeg"
 
 social:
 #- {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -122,11 +122,11 @@ testimonial__items:
     link: "https://www.linkedin.com/in/jerrad-dringman-12722b51/"
     content : "I have worked with Dusty for nearly 12 years now.  His technical expertise and problem solving make him a wonderful addition to any team. He is one of my great mentors that has helped shape my career."
 
- - name: "Kristi Wise"
+  - name: "Kristi Wise"
     image: "/images/Kristi.jpg"
     designation: "Project Manager"
     link: "https://www.linkedin.com/in/kristi-wise/"
-    content : "Dusty solves complex problems independently, efficiently, and reliably.  He innovates to determine the most effective solution and collaborates with others to drive project success. "
+    content : "Dusty solves complex problems independently, efficiently, and reliably.  He innovates to determine the most effective solution and collaborates with others to drive project success."
 
   - name: "Prafull Mohite"
     image: "/images/Prafull.jpg"
