@@ -128,7 +128,13 @@ testimonial__items:
     link: "https://www.linkedin.com/in/kristi-wise/"
     content : "Dusty solves complex problems independently, efficiently, and reliably.  He innovates to determine the most effective solution and collaborates with others to drive project success."
 
-  - name: "Prafull Mohite"
+  - name: "Sarah Cisper"
+    image: "/images/Sarah_Cisper.jpeg"
+    designation: "Vice President | 1898 & Co. Operations"
+    link: "https://www.linkedin.com/in/sarahcisper/"
+    content : "Dusty has leveraged technology to push solutions in geospatial forward for multiple industries and use cases, helping our clients connect with the public, and helping our employees connect to the human side of critical infrastructure."
+ 
+ - name: "Prafull Mohite"
     image: "/images/Prafull.jpg"
     designation: "Team Lead"
     link: "linkedin.com/in/prafull-mohite-csm®-63a66095"
@@ -146,11 +152,6 @@ testimonial__items:
     link: "https://www.linkedin.com/in/rjcross/"
     content : "I had the pleasure of working with Dusty on multiple projects involving new transmission lines in the Northeast. His attention to detail is excellent. He is well versed in not only how to approach new line permitting, but the why of the specific steps and process needed associated with this type of work. Outstanding team player and a great individual to work with on projects. I would highly recommend Dusty for any permitting needs."
  
-  - name: "Sarah Cisper"
-    image: "/images/Sarah_Cisper.jpeg"
-    designation: "Vice President | 1898 & Co. Operations"
-    link: "https://www.linkedin.com/in/sarahcisper/"
-    content : "Dusty has leveraged technology to push solutions in geospatial forward for multiple industries and use cases, helping our clients connect with the public, and helping our employees connect to the human side of critical infrastructure."
  
 #-------------------------------
 # Blog Section
