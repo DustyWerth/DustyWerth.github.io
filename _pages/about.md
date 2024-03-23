@@ -3,7 +3,7 @@ layout: page
 title: About
 description: I'm an innovative and curious person who has a lot of varied experience throughout the environmental consulting market.
 permalink: /about/
-image: '/images/DustyWerth2.jpg' 
+image: '/images/DustyWerth2.jpeg'
 image_caption: ''
 ---
 
