@@ -11,7 +11,7 @@ Hello! I'm Dusty, with a varied career spanning over 17 years in GIS and environ
 
 Beyond my professional life, I'm deeply passionate about exploring the world and its myriad cultures. Traveling is more than a hobby—it's a way of life that opens my mind to new perspectives and inspires my every endeavor. Whether it's the vibrant life in a foreign city or the serene beauty of a secluded spot, each destination offers new lessons, fresh challenges, and the chance to connect with diverse people.
 
-<Strong>My Travel Map</strong>
+<strong>My Travel Map</strong>
 <div id="mapid" style="height: 400px;"></div>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -21,32 +21,37 @@ document.addEventListener('DOMContentLoaded', function() {
     maxZoom: 17,
   }).addTo(map);
 
-  // Define the marker options
-  var geojsonMarkerOptions = {
-    radius: 8,
-    fillColor: "#0000FF",
-    color: "#000",
-    weight: 3,
-    opacity: 1,
-    fillOpacity: 0.8
-  };
+  // Function to add GeoJSON data to the map with customizable marker options
+  function addGeoJSONLayer(url, fillColor) {
+    var geojsonMarkerOptions = {
+      radius: 8,
+      fillColor: fillColor,
+      color: "#000",
+      weight: 3,
+      opacity: 1,
+      fillOpacity: 0.8
+    };
 
-  // Fetch the GeoJSON data
-  fetch('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/Leaflet/_geojson/Travel_Locs.geojson')
-    .then(function(response) { return response.json(); })
-    .then(function(data) {
-      L.geoJSON(data, {
-        pointToLayer: function (feature, latlng) {
-          return L.circleMarker(latlng, geojsonMarkerOptions);
-        }
-      }).addTo(map);
-    })
-    .catch(function(error) {
-      console.error('Error fetching GeoJSON: ', error);
-    });
+    fetch(url)
+      .then(function(response) { return response.json(); })
+      .then(function(data) {
+        L.geoJSON(data, {
+          pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptions);
+          }
+        }).addTo(map);
+      })
+      .catch(function(error) {
+        console.error('Error fetching GeoJSON: ', error);
+      });
+  }
+
+  // Add GeoJSON layers
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/Leaflet/_geojson/Travel_Locs.geojson', '#0000FF'); // Blue markers
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/Leaflet/_geojson/National_Parks.geojson', '#00FF00'); // Green markers
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/Leaflet/_geojson/Camping_Sites.geojson', '#FFFF00'); // Yellow markers
 });
 </script>
-
 
 <div class="gallery-box">
   <div class="gallery">

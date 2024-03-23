@@ -1,0 +1,186 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "NewFeatureType",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.350054053, 39.009781739, 0 ]
+			},
+			"properties" : {
+				"Name" : "Premium Spot"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.320432114, 37.873381261, 0 ]
+			},
+			"properties" : {
+				"Name" : "112"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -100.240289294, 39.061122083, 0 ]
+			},
+			"properties" : {
+				"Name" : "Quinter Stop Over"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -105.54189303, 40.362751301, 0 ]
+			},
+			"properties" : {
+				"Name" : "Site"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -97.623530794, 38.877238052, 0 ]
+			},
+			"properties" : {
+				"Name" : "KOA stop-over"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.44907329, 38.286702027, 0 ]
+			},
+			"properties" : {
+				"Name" : "Truman State Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.349952376, 39.009745815, 0 ]
+			},
+			"properties" : {
+				"Name" : "Blue Springs 4/8-4/11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.793416563, 36.419568283, 0 ]
+			},
+			"properties" : {
+				"Name" : "Eureka Springs KOA 5/28-5/31"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.868589903, 39.395425205, 0 ]
+			},
+			"properties" : {
+				"Name" : "Weston Bend 5/7-5/9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.928290178, 38.642964279, 0 ]
+			},
+			"properties" : {
+				"Name" : "Hillsdale 4/23/21-4/25/21"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -98.609918105, 37.24885113, 0 ]
+			},
+			"properties" : {
+				"Name" : "Medicine Lodge 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.346461215, 39.010398911, 0 ]
+			},
+			"properties" : {
+				"Name" : "Blue Springs 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -83.629856053, 35.784849826, 0 ]
+			},
+			"properties" : {
+				"Name" : "Pigeon Forge 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -88.930785068, 38.012998042, 0 ]
+			},
+			"properties" : {
+				"Name" : "Benton IL 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.701920419, 39.377521513, 0 ]
+			},
+			"properties" : {
+				"Name" : "Basswood Resort 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.216808731, 36.636051736, 0 ]
+			},
+			"properties" : {
+				"Name" : "Branson Lakeview RV 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -93.368497233, 38.23846705, 0 ]
+			},
+			"properties" : {
+				"Name" : "Deer Rest 2022"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -105.540429763, 40.362710749, 0 ]
+			},
+			"properties" : {
+				"Name" : "Estes Park 2022"
+			}
+		}
+	]
+}

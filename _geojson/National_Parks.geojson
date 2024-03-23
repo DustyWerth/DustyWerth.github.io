@@ -1,0 +1,270 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "NewFeatureType",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -105.7029047919, 40.3539059553 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"Name" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -83.5206257336, 35.6084814067 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"Name" : "Great Smoky Mountains National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -94.0291690126, 36.4524528228 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"Name" : "Pea Ridge Battlefield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.7329178137, 39.3230872323 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"Name" : "Harpers Ferry"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.4818567156, 39.1132293303 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"Name" : "Chesapeake and Ohio Canal"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.3930851498, 39.3611984852 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"Name" : "Monocacy National Battlefield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.7359879877, 39.4623930012 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"Name" : "Antietam National Battlefield"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.5944384568, 39.5558390057 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"Name" : "Appalachian Trail"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -77.4692045018, 39.6532431069 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"Name" : "Catoctin Mountain Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -75.1494216052, 39.951685579 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"Name" : "Independence National Historical Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -89.6547106394, 32.8707173115 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"Name" : "Natchez Trace Parkway"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.8522209079, 32.3475951423 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"Name" : "Vicksburg National Military Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -99.6178508649, 39.3903671841 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"Name" : "Nicodemus National Historic Site"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -115.9532940621, 33.8993423747 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"Name" : "Joshua Tree National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -117.1388026479, 36.5668228068 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"Name" : "Death Valley National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -109.7726566823, 34.9310611418 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"Name" : "Petrified Forest National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -150.6029670414, 63.3262903935 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"Name" : "Denali National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -150.2465915557, 59.8091923978 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"Name" : "Kenai Fjords National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -136.8691277621, 58.8274076746 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"Name" : "Glacier Bay National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -80.9548411844, 25.2825727479 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"Name" : "Everglades National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -66.1204933058, 18.4685174576 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"Name" : "San Juan National Historic Site"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -91.4063198142, 32.6349438467 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"Name" : "Poverty Point National Monument"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -90.1754109785, 38.6234608237 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"Name" : "Gateway Arch National Park"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ -157.9385136054, 21.3669968634 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"Name" : "Pearl Harbor National Memorial"
+			}
+		}
+	]
+}
