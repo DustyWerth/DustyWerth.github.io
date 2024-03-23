@@ -171,10 +171,49 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   var map = L.map('mapid').setView([39.061122083, -60.240289294], 2);
-  L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
-    attribution: 'Map data © <a href="https://opentopomap.org">OpenTopoMap</a>',
-    maxZoom: 17,
-  }).addTo(map);
+  
+  var baseMaps = {
+    "OpenTopoMap": L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+      attribution: 'Map data © <a href="https://opentopomap.org">OpenTopoMap</a>',
+      maxZoom: 17,
+    }),
+    "OpenStreetMap": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }),
+    "ESRI World Imagery": L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+      attribution: 'Tiles © Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+    })
+  };
+  
+  // Add OpenTopoMap as the default base layer
+  baseMaps["OpenTopoMap"].addTo(map);
+  
+  // Layer control
+  L.control.layers(baseMaps).addTo(map);
+
+  
+  // Legend with updated styling for a white background
+  var legend = L.control({position: 'bottomright'});
+  legend.onAdd = function (map) {
+    var div = L.DomUtil.create('div', 'info legend');
+    div.style.backgroundColor = 'white'; // Set background color to white
+    div.style.padding = '6px'; // Add some padding
+    div.style.border = '1px solid #ddd'; // Add a border
+    div.style.borderRadius = '4px'; // Optional: round the corners
+    div.style.boxShadow = '0 0 15px rgba(0,0,0,0.2)'; // Optional: add a subtle shadow
+    div.style.opacity = '0.9'; // Optional: make the background slightly transparent
+
+    var categories = ['Travel Locations', 'National Parks', 'Camping Sites'],
+        colors = ['#0000FF', '#00FF00', '#FFFF00'];
+
+    for (var i = 0; i < categories.length; i++) {
+        div.innerHTML +=
+            '<i style="background:' + colors[i] + '; width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 5px;"></i> ' +
+            categories[i] + '<br>';
+    }
+    return div;
+  };
+  legend.addTo(map);
 
   // Function to add GeoJSON data to the map with customizable marker options
   function addGeoJSONLayer(url, fillColor) {
@@ -202,9 +241,9 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   // Add GeoJSON layers
-  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/Leaflet/_geojson/Travel_Locs.geojson', '#0000FF'); // Blue markers
-  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/Leaflet/_geojson/National_Parks.geojson', '#00FF00'); // Green markers
-  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/Leaflet/_geojson/Camping_Sites.geojson', '#FFFF00'); // Yellow markers
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/Travel_Locs.geojson', '#0000FF'); // Blue markers
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/National_Parks.geojson', '#00FF00'); // Green markers
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/Camping_Sites.geojson', '#FFFF00'); // Yellow markers
 });
 </script>
 
