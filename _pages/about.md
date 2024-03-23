@@ -29,14 +29,48 @@ document.addEventListener('DOMContentLoaded', function() {
       attribution: 'Tiles © Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
     })
   };
-  
-  // Add OpenTopoMap as the default base layer
-  baseMaps["OpenTopoMap"].addTo(map);
-  
-  // Layer control
-  L.control.layers(baseMaps).addTo(map);
 
-  
+  baseMaps["OpenTopoMap"].addTo(map);
+
+  var overlayMaps = {}; // Object to hold GeoJSON layers
+
+  // Function to add GeoJSON data to the map with customizable marker options
+  function addGeoJSONLayer(url, fillColor, name) {
+    var geojsonMarkerOptions = {
+      radius: 8,
+      fillColor: fillColor,
+      color: "#000",
+      weight: 3,
+      opacity: 1,
+      fillOpacity: 0.8
+    };
+
+    fetch(url)
+      .then(function(response) { return response.json(); })
+      .then(function(data) {
+        var layer = L.geoJSON(data, {
+          pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptions);
+          }
+        }).addTo(map); // Add the layer to the map immediately
+        overlayMaps[name] = layer; // Register the layer for the overlay control
+      })
+      .catch(function(error) {
+        console.error('Error fetching GeoJSON: ', error);
+      });
+  }
+
+  // Add GeoJSON layers
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/Travel_Locs.geojson', '#0000FF', 'Travel Locations');
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/National_Parks.geojson', '#00FF00', 'National Parks');
+  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/Camping_Sites.geojson', '#FFFF00', 'Camping Sites');
+
+  // Ensure the GeoJSON layers have been added before creating the control
+  // This simplistic approach might need adjustments for real-world usage
+  setTimeout(() => {
+    L.control.layers(baseMaps, overlayMaps).addTo(map);
+  }, 1000);
+
   // Legend with updated styling for a white background
   var legend = L.control({position: 'bottomright'});
   legend.onAdd = function (map) {
@@ -59,36 +93,6 @@ document.addEventListener('DOMContentLoaded', function() {
     return div;
   };
   legend.addTo(map);
-
-  // Function to add GeoJSON data to the map with customizable marker options
-  function addGeoJSONLayer(url, fillColor) {
-    var geojsonMarkerOptions = {
-      radius: 8,
-      fillColor: fillColor,
-      color: "#000",
-      weight: 3,
-      opacity: 1,
-      fillOpacity: 0.8
-    };
-
-    fetch(url)
-      .then(function(response) { return response.json(); })
-      .then(function(data) {
-        L.geoJSON(data, {
-          pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, geojsonMarkerOptions);
-          }
-        }).addTo(map);
-      })
-      .catch(function(error) {
-        console.error('Error fetching GeoJSON: ', error);
-      });
-  }
-
-  // Add GeoJSON layers
-  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/Travel_Locs.geojson', '#0000FF'); // Blue markers
-  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/National_Parks.geojson', '#00FF00'); // Green markers
-  addGeoJSONLayer('https://raw.githubusercontent.com/DustyWerth/DustyWerth.github.io/main/_geojson/Camping_Sites.geojson', '#FFFF00'); // Yellow markers
 });
 </script>
 
